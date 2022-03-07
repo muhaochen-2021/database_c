@@ -2,9 +2,9 @@
 Assign1_Storage_Manager is a C program which could read blocks from a file on disk and write blocks from memory to the disk. This program help us learn how the storage manager control the data in the memeory and how the page file works on disk.
 
 ## Team Member:
+Chen Muhao	  mchen69@hawk.iit.edu \
 Hao	Tianyi	  thao3@hawk.iit.edu \
-Cui	Rongbin 	rcui7@hawk.iit.edu  \
-Chen Muhao	  mchen69@hawk.iit.edu 
+Cui	Rongbin 	rcui7@hawk.iit.edu 
 
 ## Test and Memory Leak:
 Go through the test and there is no memory leaks.
